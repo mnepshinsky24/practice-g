@@ -24,5 +24,6 @@ var d = 98
 print(((a+b+c)+Double(d))/4)
 
 
+var practice = "This is git practice"
 
 
